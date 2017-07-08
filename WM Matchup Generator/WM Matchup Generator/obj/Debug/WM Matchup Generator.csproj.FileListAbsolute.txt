@@ -1,0 +1,6 @@
+c:\users\jeff cardin\documents\visual studio 2015\Projects\WM Matchup Generator\WM Matchup Generator\bin\Debug\WM Matchup Generator.exe.config
+c:\users\jeff cardin\documents\visual studio 2015\Projects\WM Matchup Generator\WM Matchup Generator\obj\Debug\WM Matchup Generator.csprojResolveAssemblyReference.cache
+c:\users\jeff cardin\documents\visual studio 2015\Projects\WM Matchup Generator\WM Matchup Generator\bin\Debug\WM Matchup Generator.exe
+c:\users\jeff cardin\documents\visual studio 2015\Projects\WM Matchup Generator\WM Matchup Generator\bin\Debug\WM Matchup Generator.pdb
+c:\users\jeff cardin\documents\visual studio 2015\Projects\WM Matchup Generator\WM Matchup Generator\obj\Debug\WM Matchup Generator.exe
+c:\users\jeff cardin\documents\visual studio 2015\Projects\WM Matchup Generator\WM Matchup Generator\obj\Debug\WM Matchup Generator.pdb
